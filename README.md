@@ -7,5 +7,6 @@ It includes two parts:
 The fist part commits the pre-edge subtraction, post-edge fitting, E-to-k conversion, 
 k-space weighting, windowing, fast Fourier Transform, and inverse Fourier Transform for amplitude and phase function extraction.
 
-The second part is designed to extract local coordiation parameters (including coordination number, coordination distance, disorders,
-energy shift) from curve fitting based on simulated annealling approach.
+The second part is designed to extract local coordiation parameters of X-ray absorbing atom
+(including coordination number, coordination distance, disorders, energy shift) from 
+curve fitting based on simulated annealling approach.
