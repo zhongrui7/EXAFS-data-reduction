@@ -1,7 +1,7 @@
 // Main program for EXAFS analysis: XAFS0.cpp //
 
 #include "wan.h"
-#include "plot.cpp"
+#include "PLOTX.cpp"
 #include "preedg.cpp"
 #include "postedg.cpp"
 #include "FFT.cpp"
