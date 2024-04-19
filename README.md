@@ -7,7 +7,8 @@ It includes two parts:
 
 The fist part commits the pre-edge subtraction, edge normalization, post-edge fitting, E-to-k conversion, 
 k-space weighting, windowing, fast Fourier Transform, and inverse Fourier Transform for amplitude and phase function extraction.
+Files used: "wan.h", "XAFS.cpp", "PLOTX.cpp", "preedg.cpp", "postedg.cpp", "FFT.cpp", "IMEX.cpp"
 
 The second part is designed to extract local coordiation parameters of X-ray absorbing atom
 (including coordination number, coordination distance, disorders, energy shift) from 
-curve fitting based on simulated annealling approach. Files used: XFIT.H, FITXK2.CPP, amebsa1.cpp, spline1.cpp, plot.cpp, IO.cpp.
+curve fitting based on simulated annealling approach. Files used: "XFIT.H", "FITXK2.CPP", "amebsa1.cpp", "spline1.cpp", "plot.cpp", "IO.cpp".
